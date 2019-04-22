@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html amp lang="en">
+	<head>
+		<title>Games</title>
+		<script src="javascripts/fillSearch.js"></script>
+	</head>
+	<body>
+		<h2>Kooonsoft</h2>
+		<ul id="KS"></ul>
+		<h2>Rip&Lip</h2>
+		<ul id="RL"></ul>
+		<a href="HighKick/main.swf"><h2>HighKick</h2></a>
+		<script>
+			for(var i=0;i<KS.length;i++)document.getElementById("KS").innerHTML+="<li><a href='Kooonsoft/"+KS[i]+"/main.swf'>"+KS[i]+"</a></li>";
+			for(var i=0;i<RL.length;i++)document.getElementById("RL").innerHTML+="<li><a href='RipLip/"+RL[i]+"/main.swf'>"+RL[i]+"</a></li>";
+		</script>
+	</body>
+<html>
