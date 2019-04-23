@@ -17,7 +17,6 @@ var base='  <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header"> \
                     <div style="overflow-y:scroll;overflow-x:hidden;position:relative;left:0px" id="container1">\
                     <a class="block" href="/" style="font-size:36px;margin-top:15px;">Home</a> \
                     <a class="block" style="font-size:36px;margin-top:15px;" id="HK">High Kick</a> \
-                    <a class="block" style="font-size:36px;margin-top:15px;" id="SG">Sleeping Girl</a> \
                     <a class="block causeSlideOnClick" style="font-size:36px" target="KS" href="javascript:void(0);">Kooonsoft</a> \
                     <div id="KS" class="hide"></div>\
                     <a class="block causeSlideOnClick" style="font-size:36px" target="MF" href="javascript:void(0);">M&F</a> \
@@ -53,7 +52,6 @@ function layout(){
         document.getElementById("RL").innerHTML+=CBL("&nbsp;  "+RL[i],"/Games/RipLip/"+RL[i]+"/index.html",20);
     document.getElementById("container1").style.height="100%";
     document.getElementById("HK").href="javascript:replace('/Games/High Kick/index.html')";
-    document.getElementById("SG").href="javascript:replace('/Games/Sleeping Girl/index.html')";
     document.getElementById("container1").style.width=document.getElementById("container2").offsetWidth+18+"px";
     if(game){
 		var h,w;

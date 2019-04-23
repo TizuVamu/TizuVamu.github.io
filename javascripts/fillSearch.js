@@ -17,7 +17,27 @@ var MF=[
     "secret agent",
     "star mission",
     "street racing",
-    "the strict teacher"
+    "the strict teacher",
+	"A2",
+	"A3",
+	"A4",
+	"A5",
+	"A6",
+	"A7",
+	"A8",
+	"Angel Girl X v2.00 手机版有码",
+	"Angel Girl X v2.00 无修",
+	"『Goeniko vs Kuromaru』 version 1.11",
+	"『寝てるよ！　かすみちゃん』 version 1.02..",
+	"『足上げサムスさん』 version 2.00",
+	"不知名游戏的试玩版",
+	"女体盛轨迹",
+	"工口王国社的调教JK",
+	"工口王国社的调教女仆",
+	"挑逗窗外女孩",
+	"授乳手コキしてみた1.00.",
+	"深喉2",
+	"自家発電キノさん"
 ];
 var RL=[
     "Fetishism2",
