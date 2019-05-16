@@ -51,7 +51,7 @@ function layout(){
     for(var i=0;i<RL.length;i++)
         document.getElementById("RL").innerHTML+=CBL("&nbsp;  "+RL[i],"/Games/RipLip/"+RL[i]+"/index.html",20);
     document.getElementById("container1").style.height="100%";
-    document.getElementById("HK").href="javascript:replace('/Games/High Kick/index.html')";
+    document.getElementById("HK").href='/Games/High Kick/index.html';
     document.getElementById("container1").style.width=document.getElementById("container2").offsetWidth+18+"px";
     if(game){
 		var h,w;
